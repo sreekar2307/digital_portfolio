@@ -1,0 +1,23 @@
+.navbar{
+	background-color:#253640; 
+}
+a{
+	color: white;
+}
+.img-thumbnail{
+	max-width: 60%;
+	height: 20%;
+}
+.Home{
+	  background-color: #0d5875;
+	  border-radius: 0.5em;
+}
+.data{
+	color: white;
+}
+
+.card{
+	background-color: #dde6e8;
+	border-radius: 0.5em;
+	margin: 0;
+}
